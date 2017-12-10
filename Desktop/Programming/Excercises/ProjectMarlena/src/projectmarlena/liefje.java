@@ -6,8 +6,10 @@ public class liefje {
     
     String naam;
     
-    public liefje(){
-    
+    public liefje(String naam){
+        
+        this.naam = naam;
+        
     }
     
 }
